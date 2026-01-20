@@ -1,0 +1,203 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d43064144c2a0f641965f88296caf137
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage1.unity
+    guid: c850ee8c3b14cc8459e7e186857cf567
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage1Hard.unity
+    guid: 927a94a4f8a218446848f524f6fe731e
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage2.unity
+    guid: 4c182d5bdaa16a84891600aa5fd61740
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage2Hard.unity
+    guid: cbe3c746a94ec234982bb992cd268f34
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage3.unity
+    guid: c8fa477d4d228f84eaa1abb4f6a9d212
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage3Hard.unity
+    guid: 2e4511dd0db885c4aa8b9eaed07ac10a
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage4.unity
+    guid: 9f43985be104895459264d7bcdd2d1a9
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage4Hard.unity
+    guid: 56ec33cfc2e77524890a0e3e53216a55
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage5.unity
+    guid: 320cc4abd214a2b439a9459674cd681d
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage5Hard.unity
+    guid: e519c1d403cd7d54d84889329ab40a10
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage6.unity
+    guid: 4837648a63c5f324892d8529fb784e95
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage6Hard.unity
+    guid: 5d93dc925b0068649917ad7aaeaef7f1
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage7.unity
+    guid: 2bf443af1a41d7947a7b2c20b7d68561
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage7Hard.unity
+    guid: 1139784ff6cfa544ab052b38843ddc9c
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage8.unity
+    guid: dcb25a3e3f894cd43b28ec87983a3c00
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage8Hard.unity
+    guid: c12dc975b7301a349ae0d3a59396f27c
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage9.unity
+    guid: ff0ed22e6fa6ba4458bdd52791e7fee7
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage9Hard.unity
+    guid: 534acb72be816874aa443d3c72b99ddb
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage10.unity
+    guid: b9663da00b64963468ff8ea9f9d36558
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage10Hard.unity
+    guid: d3884033f3a50bc4d88bc9196ec314ae
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage11.unity
+    guid: de09dbe91764c9840a0aa50bbdaeec1a
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage11Hard.unity
+    guid: be94a8a7e492c294496cdea7873ef3dc
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage12.unity
+    guid: e40e5e8238bb70d4598e8aeda0314a4f
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage12Hard.unity
+    guid: 98bb3bad314a0014c8bb651c6763590f
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage13.unity
+    guid: 012a0f8757399ca45816c47e328f7d5a
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage13Hard.unity
+    guid: 84452d40a06e9a946afefe91c4775e6f
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage14.unity
+    guid: 7a8265a2930ded741a2e44a28cf82927
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage14Hard.unity
+    guid: 62e9be9966a2ef944bf74fac8dd22630
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage15.unity
+    guid: 7026d12792959e544847a833694d084c
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage15Hard.unity
+    guid: a814391c5b40263419958051b0503cb7
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage16.unity
+    guid: 3454fdf899475d64c901cefaa35827e4
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage16Hard.unity
+    guid: 02297566221277047911f7ebf84940e9
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage17.unity
+    guid: a584116fa200b4144a9b48e2e3593154
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage17Hard.unity
+    guid: ecfdb6c02caf60b41a9f34b39a9a5a2b
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage18.unity
+    guid: 647c0cc94e08a1e419ddd863b1e76cd0
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage18Hard.unity
+    guid: 8014c7fc2c4359d489d7a105695a6a8c
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage19.unity
+    guid: f6db448e459846947811fe71c36c948b
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage19Hard.unity
+    guid: 2e6b350d37da1d743b8fcff2ba5834e4
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage20.unity
+    guid: 5f84b9992e5b07c4db3fbc0cb1a1ac63
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage20Hard.unity
+    guid: 767ad3d7295001c46ae4f97055f800c2
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage21.unity
+    guid: 6ec10544b9ed8fb4ab39cef6ee460297
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage21Hard.unity
+    guid: 2926c4d21488ca740a51a762a112fb47
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage22.unity
+    guid: 48f8288896e43534ba64a9520b4185a4
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage22Hard.unity
+    guid: b312754ef3450094981cd14e6e6f5f7c
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage23.unity
+    guid: fd4243535cf77dc4aa13af07b2e9a326
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage23Hard.unity
+    guid: 574271f3532c32b40a7c0dcc8639afd6
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage24.unity
+    guid: bbbbc755f283cfa48888c64213e7a150
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage24Hard.unity
+    guid: ebcf7634c297c4544a75a92bc22ba38e
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage25.unity
+    guid: 2e9774b838a78a1429ba2cff9a4f24e3
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage25Hard.unity
+    guid: 8aad4b56ddecd984a92459c0c3413ffb
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage26.unity
+    guid: 28da5c6d5953e9748ba5c9f274394ad5
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage26Hard.unity
+    guid: 8a8b6948ea40f3d4b89c46e2f18952e6
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage27.unity
+    guid: e9049cfa7b74e6142aced4a1b80cbea2
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage27Hard.unity
+    guid: 9082c8d87607a6042909a70b6f652846
+  - enabled: 1
+    path: Assets/Scenes/Easy Stages/Stage28.unity
+    guid: c0f2b109109e1b148997b5be7859e146
+  - enabled: 1
+    path: Assets/Scenes/Hard Stages/Stage28Hard.unity
+    guid: 09a923d7653491b418e87d7b58172bad
+  - enabled: 1
+    path: Assets/Scenes/StagesPage.unity
+    guid: a29261cfeeb9bea4b8a3bd11cda45f03
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: cf80c9fd1233ab441922e31e92ec0f34
+  - enabled: 1
+    path: Assets/Scenes/Tutorial2.unity
+    guid: 57b7e6145aa366e4aa30319baedc1e72
+  - enabled: 1
+    path: Assets/Scenes/Skins.unity
+    guid: 743c50c0240f70a4dbaec081ba8aae6c
+  - enabled: 1
+    path: Assets/Scenes/Info.unity
+    guid: 933da8c4cdf582f44b61d245d8166cb3
+  - enabled: 1
+    path: Assets/Scenes/LoseScreen.unity
+    guid: 639305674f8e2204fbac28e9e7acf975
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 8a17b7a252a80e8419e8e08f6901a594,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 55353581028413441bfad22f0a3be2fc, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: f39a6c88f8f808e4791c6a65e2e5592d, type: 2}
