@@ -1,36 +1,37 @@
-Get Into It! — Mobile game
-I made this application when I was 17 years old and successfully published it on Google Play Store.
+# Get Into It! — Mobile Game
 
-Gameplay Overview
-The player is in control of a cube. The cube can move left and right or jump, after which it makes a jumping sound. The goal of the game is that the player jumps through holes in the walls. If he o
+**Get Into It!** is a 3D mobile game that I developed at the age of 17 and successfully published on the Google Play Store.
 
-The game includes two modes:
+## Gameplay Overview
+The player controls a cube that can move left and right and jump. The objective is to jump through openings in moving walls — touching the walls results in instant death. The game provides audio feedback on jumps and allows the player to purchase cosmetic skins.
 
-Level Mode: 50 handcrafted levels that must be completed to reach the end.
-Infinite Mode: A continuous mode where the player survives for as long as possible.
-During gameplay, players can collect gems, which can then be used to unlock additional character skins.
+### Game Modes
+- **Level Mode** — 30 handcrafted levels with progressive difficulty. Completing levels rewards the player with points that can be spent on skins (different cube shades).
 
-If the player hits the beginning of a platform, the run ends.
+## Development & Assets
+- Built with **Unity**
+- 3D models, UI, and animations created in **Blender**
+- Progress saved using **PlayerPrefs**
+- Published on the **Google Play Store**
+- Integrated **Google Play Ads** for monetization
 
-Development & Assets
-All 3D models, UI elements, and animations were created in Blender
-Progress is stored using PlayerPrefs
-Published on Google Play Store
-Built in Unity
-Tech
-Game engine Unity
-3D Modelling Software Blender
-Unity Extension PlayerPrefs
-Programming language C#
-Code editor Visual Studio Code
-Google Play Advertisements Plugin
-What I learned
-A lot about programming
-Importing of 3D assets from Blender
-Saving player data and using it beetwen scenes
-Game design
-Learned how to use the Unity game engine
-Game monetization with advertisements
-Publishing on Google Play Store using Google Play Console using professional screenshots, game descriptions and writing contracts
-Notes
-Crazy Jumper was my first completed and shipped game project.
+## Tech Stack
+- **Engine:** Unity
+- **Language:** C#
+- **3D Modeling:** Blender
+- **Editor:** Visual Studio Code
+- **Data Storage:** PlayerPrefs
+- **Platform:** Android (Google Play)
+- **Plugins:** Google Mobile Ads SDK
+
+## What I Learned
+- Full Unity production pipeline from prototype to release
+- Importing 3D assets and handling materials
+- Scene transitions and maintaining state between scenes
+- Player progression & data persistence
+- Game design (level pacing, difficulty curves)
+- Mobile monetization through advertisements
+- Publishing through Google Play Console (store listing, screenshots, descriptions, contracts)
+
+## Notes
+This was one of my early mobile projects and helped me understand both technical and production aspects of game development beyond simple prototypes.
