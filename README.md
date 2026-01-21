@@ -35,3 +35,5 @@ The player controls a cube that can move left and right and jump. The objective 
 
 ## Notes
 This was one of my early mobile projects and helped me understand both technical and production aspects of game development beyond simple prototypes.
+
+Game screenshots can be found in the images folder.
